@@ -1,7 +1,7 @@
 <?php
 class NewsAPI
 {
-    private $api_key = 'ebee93852f584bafb3c9635641050cf4';
+    private $api_key = 'pH';
     private $base_url = 'https://newsapi.org/v2/';
 
     public function getNews($query = '')
